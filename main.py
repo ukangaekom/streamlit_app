@@ -66,7 +66,7 @@ print(df_selector)
 #
 # )
 
-fig_gender = px.bar(https://github.com/Coin-boy/streamlit_app.git
+fig_gender = px.bar(
     gender_by_gender,
     x= 'username',
     y = gender_by_gender.index,
